@@ -5,7 +5,6 @@ Connects through a socks proxy, generates a random user agent and random referer
 
 Usage: node ghost.js URL socks://IP:PORT
 
-Preview
    .  .   .   .  .   .   .   .   .   .   .   .   .  . . . . . . . . . . . . . . . . . . . . . .  .  
  @X88@8@8@8@8@8@8@8X888888888888888888888888888888@8@8@8@8@8@8@8@8@8@8@8@8@8@8@8@8@8@8@8888@8888@%X 
 .@t@%X@@X@@@X@@@X@X@@@X@X@X@X@@X@@X@X@X@@X@X@X@@X@XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX@@@@X@@@@%8   
