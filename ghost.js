@@ -56,7 +56,7 @@ console.log(`<------------Space Ghost JS------------>`);
 
   opts.headers = {
     "user-agent": agentList[Math.floor(Math.random() * agentList.length)],
-    referer: generateRandomIP(),
+    "referer": generateRandomIP(),
   };
 
   https
