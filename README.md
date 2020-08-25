@@ -4,5 +4,5 @@ Send a GET request through a socks proxy along with a random user agent and rand
 
 Usage: node ghost.js URL socks://IP:PORT
 
-<img src="spaceghost.gif" /> 
+<img src="spaceG.gif" /> 
 
