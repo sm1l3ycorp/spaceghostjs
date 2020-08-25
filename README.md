@@ -1,9 +1,11 @@
 # spaceghostjs
-Space Ghost JS, a web request anonymizing tool written in NodeJS.
+Space Ghost JS, a https web request anonymizing tool written in NodeJS.
 
-Connects through a socks proxy, generates a random user agent and random referer (IPV4 Address).
+Send a GET request through a socks proxy along with a random user agent and random referer (IPV4 Address).
 
 Usage: node ghost.js URL socks://IP:PORT
+
+Use cases: API Testing, Allow/Deny List Testing, Anonymity, etc,
 
 <img src="spaceghost.gif" /> 
 
