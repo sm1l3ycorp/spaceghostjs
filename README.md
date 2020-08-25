@@ -5,7 +5,7 @@ Send a GET request through a socks proxy along with a random user agent and rand
 
 Usage: node ghost.js URL socks://IP:PORT
 
-Use cases: API Testing, Allow/Deny List Testing, Anonymity, etc,
+Use cases: API Testing, etc :P
 
 <img src="spaceghost.gif" /> 
 
