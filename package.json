@@ -1,0 +1,14 @@
+{
+  "name": "spaceghostjs",
+  "version": "1.0.0",
+  "description": "Space Ghost JS, a web request anonymizing tool written in NodeJS.",
+  "main": "ghost.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miles Leach",
+  "license": "ISC",
+  "dependencies": {
+    "socks-proxy-agent": "^5.0.0"
+  }
+}
