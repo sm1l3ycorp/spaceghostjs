@@ -7,6 +7,7 @@ const agents = fs.readFileSync("http-user-agents.csv");
 const agentList = agents.toString().split("\n");
 
 // const proxies = fs.readFileSync('socks-proxies.csv');
+// const referers = fs.readFileSync('referers.csv');
 
 console.log(`<------------Space Ghost JS------------>`);
 
