@@ -3,11 +3,11 @@ const url = require("url");
 const https = require("https");
 const SocksProxyAgent = require("socks-proxy-agent");
 
-const agents = fs.readFileSync("http-user-agents.csv");
+const agents = fs.readFileSync("supply-your-own-agents.csv");
 const agentList = agents.toString().split("\n");
 
-// const proxies = fs.readFileSync('socks-proxies.csv');
-// const referers = fs.readFileSync('referers.csv');
+// const proxies = fs.readFileSync('socks-proxies.csv'); // supply your own
+// const referers = fs.readFileSync('referers.csv'); // supply your own
 
 console.log(`<------------Space Ghost JS------------>`);
 
